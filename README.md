@@ -104,3 +104,7 @@ For support, email ajanurmondal97@gmail.com or connect through Linkedin.
 
 #### Cloud Infrustructure Services
 
+
+## 🛠 Skills
+
+#### Python, Machine Learning, Deep Learning, Tensorflow, SQL, NoSQL, Power BI, BMC Control-M, Service-Now, IBM Watson
